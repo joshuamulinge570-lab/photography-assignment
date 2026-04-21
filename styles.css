@@ -1,0 +1,42 @@
+body{
+margin: 0;
+padding: 0;
+background-color: darkblue;
+color: yellowgreen;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+header{
+text-align: center;
+background-color: chocolate;
+color: lawngreen;
+padding: 20px 20px 8px 8px;
+}
+header h1{
+font-size: 120px;;
+font-style: italic;
+font-weight: 900;
+}
+
+img{
+width: 280px;
+height: 200px;
+}
+.folder{
+border:( 2px solid black);
+border-radius: 40px;
+text-align:center;
+}
+.card{
+border: (2px solid blue);
+border-radius: 40px;
+text-align: center;
+}
+footer{
+text-align: center;
+color: lightgreen;
+background-color: black;
+padding: 5px 10x 6px 8px;
+}
+.header h3{
+box-align:border-box;
+}
