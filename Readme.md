@@ -9,7 +9,7 @@ view a larger section in a new tab.
 
 PROJECT SETUP INSTRUCTIONS
 1.Clone the repository
-  git clone https://https://github.com/joshuamulinge570-lab/photography-assignment.git
+
 2.Navigate into the project folder
   cd photography-assignment
 3.Open the project
